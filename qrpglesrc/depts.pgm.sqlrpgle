@@ -5,8 +5,10 @@
           DepartmentNumber Char(3);
         End-Pr;
 
+      // Procedure declaration
+
         Dcl-Pr NewEmp ExtPgm;
-          DepartmentNumber Char(3);
+          DepartmentNumber Char(5);
         End-Pr;
 
       //---------------------------------------------------------------*
